@@ -7,18 +7,16 @@ I am a **postdoc researcher** at the [Institute of Phonetics und Speech Processi
 
 ### Repositories
 
-You can find repositories I own listed at the following links:
+You can find my repositories listed at the following links:
 
-- [Research projects](https://github.com/stefanocoretta?tab=repositories&q=research-project&type=&language=).
-- [Research data](https://github.com/stefanocoretta?tab=repositories&q=research-data&type=&language=&sort=).
-- [Software](https://github.com/stefanocoretta?tab=repositories&q=software&type=&language=&sort=).
-- [Learning materials](https://github.com/stefanocoretta?tab=repositories&q=teaching-materials&type=&language=&sort=).
-- [Presentations](https://github.com/stefanocoretta?tab=repositories&q=talk&type=&language=&sort=).
-
-More here:
-
-- [learnB4SS](https://github.com/learnB4SS): Learn Bayesian Analysis for Speech Sciences Workshop.
-- [Many Speech Analyses](https://github.com/many-speech-analyses). *Multidimensional signals and analytic flexibility: Estimating degrees of freedom in human speech analyses*.
+- 🔍 [Research projects](https://github.com/stefanocoretta?tab=repositories&q=research-project&type=&language=).
+  - [Many Speech Analyses](https://github.com/many-speech-analyses). *Multidimensional signals and analytic flexibility: Estimating degrees of freedom in human speech analyses*.
+- 📦 [Research data](https://github.com/stefanocoretta?tab=repositories&q=research-data&type=&language=&sort=).
+- 💻 [Software](https://github.com/stefanocoretta?tab=repositories&q=software&type=&language=&sort=).
+- 🧑‍🏫 [Learning materials](https://github.com/stefanocoretta?tab=repositories&q=teaching-materials&type=&language=&sort=).
+  - [learnB4SS](https://github.com/learnB4SS): Learn Bayesian Analysis for Speech Sciences Workshop.
+  - [intRo](https://github.com/intro-rstats): Data visualisation and exploration with R.
+- 📽️ [Presentations](https://github.com/stefanocoretta?tab=repositories&q=talk&type=&language=&sort=).
 
 <br>
 
