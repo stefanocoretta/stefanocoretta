@@ -17,6 +17,7 @@ You can find my repositories listed at the following links:
   - [learnB4SS](https://github.com/learnB4SS): Learn Bayesian Analysis for Speech Sciences Workshop.
   - [intRo](https://github.com/intro-rstats): Data visualisation and exploration with R.
 - 📽️ [Presentations](https://github.com/stefanocoretta?tab=repositories&q=talk&type=&language=&sort=).
+- ℬ [Typography](https://github.com/stefanocoretta?tab=repositories&q=typography&type=&language=&sort=).
 
 <br>
 
