@@ -3,7 +3,7 @@
 🏠 — <https://stefanocoretta.github.io>
 
 
-I am a **postdoc researcher** at the [Institute of Phonetics und Speech Processing](https://www.en.phonetik.uni-muenchen.de/index.html) at the Ludwig-Maximilians Universität München (Germany). My area of research is **linguistics** with a focus on **phonetics and phonology**—the study of speech sounds and their relation to [*linguisticality*](https://doi.org/10.3389/fpsyg.2019.03056) (i.e., Human Language).
+I am the *Senior Teaching Coordinator for Statistics* at the [Linguistics and English Language](https://www.ed.ac.uk/ppls/linguistics-and-english-language) department of the University of Edinburgh. My main areas of expertise are linguistics (with a focus on [phonetology](https://stefanocoretta.github.io/meta/#phonetology)) and [research methods](https://stefanocoretta.github.io/meta/#research-methods).
 
 ### Repositories
 
