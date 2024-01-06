@@ -3,7 +3,7 @@
 🏠 — <https://stefanocoretta.github.io>
 
 
-I am the *Senior Teaching Coordinator for Statistics* at the [Linguistics and English Language](https://www.ed.ac.uk/ppls/linguistics-and-english-language) department of the University of Edinburgh. My main areas of expertise are linguistics (with a focus on [phonetology](https://stefanocoretta.github.io/meta/#phonetology)) and [research methods](https://stefanocoretta.github.io/meta/#research-methods).
+I am the *Senior Teaching Coordinator for Statistics* (Tenured Faculty) at the [Linguistics and English Language](https://www.ed.ac.uk/ppls/linguistics-and-english-language) department of the University of Edinburgh. My main areas of expertise are linguistics (with a focus on [phonetology](https://stefanocoretta.github.io/meta/#phonetology)) and [research methods](https://stefanocoretta.github.io/meta/#research-methods).
 
 ### Repositories
 
